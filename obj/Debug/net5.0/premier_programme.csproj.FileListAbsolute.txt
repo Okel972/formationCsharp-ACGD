@@ -1,0 +1,5 @@
+C:\Users\home\Documents\Documents Kévin\Formation\Formation ACGD\WindowsForm\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.csproj.AssemblyReference.cache
+C:\Users\home\Documents\Documents Kévin\Formation\Formation ACGD\WindowsForm\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\home\Documents\Documents Kévin\Formation\Formation ACGD\WindowsForm\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.AssemblyInfoInputs.cache
+C:\Users\home\Documents\Documents Kévin\Formation\Formation ACGD\WindowsForm\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.AssemblyInfo.cs
+C:\Users\home\Documents\Documents Kévin\Formation\Formation ACGD\WindowsForm\premier_programme\premier_programme\obj\Debug\net5.0\premier_programme.csproj.CoreCompileInputs.cache
