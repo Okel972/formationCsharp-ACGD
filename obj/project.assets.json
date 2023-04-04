@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\home\\Documents\\Documents Kévin\\Formation\\Formation ACGD\\WindowsForm\\premier_programme\\premier_programme\\premier_programme.csproj",
+      "projectUniqueName": "C:\\Users\\home\\Documents\\DocumentsKevin\\Formation\\FormationACGD\\WindowsForm\\premier_programme\\premier_programme\\premier_programme.csproj",
       "projectName": "premier_programme",
-      "projectPath": "C:\\Users\\home\\Documents\\Documents Kévin\\Formation\\Formation ACGD\\WindowsForm\\premier_programme\\premier_programme\\premier_programme.csproj",
+      "projectPath": "C:\\Users\\home\\Documents\\DocumentsKevin\\Formation\\FormationACGD\\WindowsForm\\premier_programme\\premier_programme\\premier_programme.csproj",
       "packagesPath": "C:\\Users\\home\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\home\\Documents\\Documents Kévin\\Formation\\Formation ACGD\\WindowsForm\\premier_programme\\premier_programme\\obj\\",
+      "outputPath": "C:\\Users\\home\\Documents\\DocumentsKevin\\Formation\\FormationACGD\\WindowsForm\\premier_programme\\premier_programme\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

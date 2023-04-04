@@ -40,7 +40,11 @@ namespace MyApp // Note: actual namespace depends on the project name.
                 {
                     age = int.Parse(newage);
 
-                    if (age < 1)
+                    if (age < 0)
+                    {
+                        Console.WriteLine("Erreur la valeur que vous avez rentrée n'est pas bonne, essayez encore");
+                    }
+                    else if (age > 100)
                     {
                         Console.WriteLine("Erreur la valeur que vous avez rentrée n'est pas bonne, essayez encore");
                     }
